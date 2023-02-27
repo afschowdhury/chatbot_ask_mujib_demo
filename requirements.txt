@@ -1,0 +1,10 @@
+fastapi
+openpyxl
+requests
+sentence-transformers
+tqdm
+numpy
+uvicorn[standard]
+pandas
+langdetect
+avro.py==2023.1.7
