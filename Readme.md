@@ -13,6 +13,7 @@ To get started, follow the instructions below:
 
 ## Installation
 <hr>
+
 ### Clone the repository:
 
 ```bash
