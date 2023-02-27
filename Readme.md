@@ -59,10 +59,10 @@ The server will respond with a JSON payload in the following format:
     "question": "user question ?",
     "changedQuestion": "pre processed question",
     "answer": "chatbot answer",
-    "score": confidence_score,
-    "isSuccessful": succesfull_or_not,
-    "image": image_url,
-    "video": video_url
+    "score": "confidence_score",
+    "isSuccessful": "succesfull_or_not",
+    "image": "image_url",
+    "video": "video_url"
 }
 
 ```
